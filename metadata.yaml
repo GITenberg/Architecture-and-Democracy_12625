@@ -1,0 +1,33 @@
+_repo: Architecture-and-Democracy_12625
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bragdon, Claude Fayette
+    alias: Bragden, Claude
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '4128'
+    url: http://www.gutenberg.org/2009/agents/4128
+    wikipedia: http://en.wikipedia.org/wiki/Claude_Fayette_Bragdon
+description: ''
+gutenberg_bookshelf: Architecture
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12625'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sullivan, Louis H., 1856-1924'
+- !lcsh 'Architecture -- United States'
+- !lcc 'NA'
+- !lcsh 'Decoration and ornament'
+- !lcsh 'Architecture'
+- GITenberg
+tableOfContents: Architecture and democracy -- Ornament from mathematics -- Harnessing
+  the rainbow -- Louis Sullivan, prophet of democracy -- Color and ceramics -- Symbols
+  and sacraments -- Self-education.
+title: Architecture and Democracy
+url: http://www.gutenberg.org/ebooks/12625
